@@ -10,7 +10,7 @@ This project demonstrates how to perform Optical Character Recognition (OCR) on 
 - Displaying the final OCR results with images inline in the notebook
 
 Colab Notebook link - https://colab.research.google.com/drive/1a7J86amiy-UF2ph-2saWfDqBQacHVVV-?usp=sharing 
-
+Documentation - https://docs.google.com/document/d/1K-KoJdhe9WHzBUPln6uEWbHpsXoDn5wSSbrOuenqG58/edit?usp=sharing
 ---
 
 ## Why OCR?
